@@ -33,6 +33,8 @@ It includes:
 - Outlier detection
 - Exploratory Data Analysis (EDA)
 - Creation of the final modelling dataset
+- Correlation analysis
+- Variance Inflation Factor (VIF)
 
 **Output:**
 
@@ -47,8 +49,6 @@ This notebook contains the complete machine learning workflow.
 It includes:
 
 - Feature selection
-  - Correlation analysis
-  - Variance Inflation Factor (VIF)
   - Mutual Information
   - Recursive Feature Elimination with Cross-Validation (RFECV)
 - Model training
