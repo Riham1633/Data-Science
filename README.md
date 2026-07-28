@@ -19,7 +19,7 @@ The project integrates multiple public datasets, performs extensive preprocessin
 
 ## Repository Contents
 
-### 📓 `MergeDatasets_EDA.ipynb`
+### `MergeDatasets_EDA.ipynb`
 
 This notebook performs the complete data preparation pipeline.
 
@@ -42,7 +42,7 @@ It includes:
 
 ---
 
-### 📊 `ML_Evaluation.ipynb`
+### `ML_Evaluation.ipynb`
 
 This notebook contains the complete machine learning workflow.
 
@@ -62,7 +62,7 @@ It includes:
 
 ---
 
-### 📄 `final_dataset_fixed.csv`
+### `final_dataset_fixed.csv`
 
 The final processed dataset used throughout the project.
 
@@ -79,7 +79,7 @@ This dataset serves as the input for all machine learning analyses.
 
 ---
 
-### 📑 `FinalReport_324239284_325390201.pdf`
+### `FinalReport_324239284_325390201.pdf`
 
 The final project report describing:
 
